@@ -5,6 +5,7 @@
 [![npm](https://img.shields.io/npm/v/formik.svg)](https://npm.im/formik)
 [![license](https://img.shields.io/npm/l/formik.svg)](./LICENSE)
 [![Discord](https://img.shields.io/discord/102860784329052160.svg?style=flat-square)](https://discord.gg/cU6MCve)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkvolkovich-sc%2Fformik.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkvolkovich-sc%2Fformik?ref=badge_shield)
 
 ## Overview
 
@@ -1778,3 +1779,7 @@ MIT License.
 [`status`]: #status-any
 [`touched`]: #touched--field-string-boolean-
 [`values`]: #values--field-string-any-
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkvolkovich-sc%2Fformik.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkvolkovich-sc%2Fformik?ref=badge_large)
